@@ -17,10 +17,6 @@ This project implements a real-time 2D object recognition system. The system ide
 6.  Classifying new objects using a nearest-neighbor approach (or other implemented classifiers).
 The system displays the recognized object's label and position on the output.
 
-**Task(s) Implemented From Scratch:**
-*(As per project requirements: 1 if working solo, 2 if working in pairs from: thresholding, morphological filtering, connected components, moment calculations)*
-- [e.g., Thresholding]
-- [e.g., Connected Components Analysis (if applicable)]
 
 ## Files Submitted
 - `main.cpp` 
